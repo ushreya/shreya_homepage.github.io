@@ -11,6 +11,7 @@
 
 ## Research Experience
 **Behavioral Information and Interaction Computation Lab (BIIC), NTHU (_2019/09 - Present_)**
+
 ***Speech Emotion Recognition***
 - Pretrained Layer-Constrained Cross-Lingual SER
 - Utilizing Rater-Expanded Label Space for Consensus-based SER (TAFFC 24)
@@ -31,22 +32,31 @@
 - Sound Event Localization and Detection
 
 ***Affective Multimedia***
-– Integrating Annotator’s Subjectivity in Multimedia Emotion Recognition System
-– Modelling Multimodal System with Verbal and Non-Verbal Human Sound Events (EUSIPCO 22)
+- Integrating Annotator’s Subjectivity in Multimedia Emotion Recognition System
+- Modelling Multimodal Systems with Verbal and Non-Verbal Human Sound Events (EUSIPCO 22)
 
 ***Dataset Collection and Creation***
 - Taiwanese Mandarin Affective Podcast Dataset Collection (ACII 23)
 - Synthetic Scene and Event Background Noise Dataset Creation for ASR
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**K.J. Somaiya College of Engineering (KJSCE), India (_2016/06 - 2018/10_)**
+
+***Affective and Behavioural Computing***
+- Attention-based Modelling for Accent Classification
+- Dataset Collection Interface Creation for Judgement Questionnaire
+- Early-Later Stage Confidence Behaviour Prediction of Online Platform Learners (ICCUBEA 18)
+
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### MSP-Lab, University of Texas at Dallas, USA (_2021/07 - Present_)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Affective Mandarin Taiwanese Podcast Database Collection
+- Phonetic-based Cross-Lingual Speech Emotion Recognition
+- Effect of Affective Priming on Emotional Annotations
+- Monolog v/s Conversational Speech on Recognizing Emotion
+
+### C-Media Electronics Incorporation (C-Media Inc.), Taiwan (_2021/02 - 2021/07_)
+- Implement AI De-Reverberation De-Noise Algorithm Using Deep Noise Suppression
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
