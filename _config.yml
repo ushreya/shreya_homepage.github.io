@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Shreya's page
+logo: /assets/img/headshot_circle.png
+show_downloads: true
 description: Bookmark this to keep an eye on my project updates!
