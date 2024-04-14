@@ -11,6 +11,7 @@
 
 ## Research Experience
 **Behavioral Information and Interaction Computation Lab (BIIC), NTHU (_2019/09 - Present_)**
+
 ***Speech Emotion Recognition***
 - Pretrained Layer-Constrained Cross-Lingual SER
 - Utilizing Rater-Expanded Label Space for Consensus-based SER (TAFFC 24)
