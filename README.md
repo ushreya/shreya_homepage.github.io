@@ -5,7 +5,7 @@
 
 
 ## Education
-- PhD, Electrical Engineering  |  National Tsing Hua University (NTHU), Taiwan (_2019/09_ - _Present_ )								       		
+- PhD, Electrical Engineering | National Tsing Hua University (NTHU), Taiwan (_2019/09_ - _Present_ )								       		
 - MTech, Computer Engineering | The University of Texas at Dallas (_2016/06 - 2018/10_)	 			        		
 - BE, Computer Engineering | The University of Texas at Dallas (_2009/06 - 2013/07_)
 
@@ -104,6 +104,7 @@ Machine Learning Libraries Pytorch, TensorFlow, Docker, scikit-learn
 Other Tools & Familiar OS LaTex, Git (Github and Gitlab), Linux, Windows
 
 ## Reviewer Experience
+
 International Conference on Affective Computing and Intelligent Interactions (ACII)
 ACM International Conference on Multimodal Interaction (ICMI)
 IEEE Transactions on Affective Computing
@@ -111,14 +112,46 @@ Interspeech
 
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+### Journal Paper
+1. Upadhyay Shreya G., Woan-Shiuan Chien, Bo-Hao Su, and Chi-Chun Lee. ”Learning With Rater-Expanded
+Label Space to Improve Speech Emotion Recognition.” IEEE Transactions on Affective Computing, 2024.
+2. Upadhyay Shreya G., Luz Martinez-Lucas, William Katz, Carlos Busso, and Chi-Chun Lee. “Unsupervised
+Cross-Corpus Speech Emotion Recognition using Phonetic Anchor-Governed Transfer Learning Infrastructure.”
+IEEE Transactions on Affective Computing. (Under review)
+3. Woan-Shiuan Chien, Upadhyay Shreya G., Wei-Cheng Lin, Carlos Busso, and Chi-Chun Lee. “Monologue
+versus Conversation: Impact of Emotion Perception and Acoustic Variability on Speech Emotion Recognition.”
+IEEE Transactions on Affective Computing. (Under review)
+4. Luz Martinez-Lucas, Ali Salman, Seong-Gyun Leem, Upadhyay Shreya G., Chi-Chun Lee, and Carlos
+Busso. “Affective Priming in Emotional Annotations and its Effect on Speech Emotion Recognition.” IEEE
+Transactions on Affective Computing. (Under review)
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### Conference Paper
+
+1. Woan-Shiuan Chien, Upadhyay Shreya G., and Chi-Chun Lee. “Balancing Speaker-Rater Fairness for
+Gender-Neutral Speech Emotion Recognition.” IEEE International Conference on Acoustics, Speech and Signal
+Processing (ICASSP), 2024.
+2. Upadhyay Shreya G., Woan-Shiuan Chien, Bo-Hao Su, Carlos Busso, and Chi-Chun Lee. “Towards a
+Consortium of Naturalistic Affective Speech Corpora through an Intelligently-Controlled Framework.” Proc.
+11th International conference on affective computing and intelligent interactions (ACII), 2023.
+3. Luz Martinez-Lucas, Ali Salman, Seong-Gyun Leem, Upadhyay Shreya G., Chi-Chun Lee, and Carlos Busso.
+“Analyzing the Effect of Affective Priming on Emotional Annotations.” Proc. 11th International conference
+on affective computing and intelligent interactions (ACII), 2023.
+4. Upadhyay Shreya G., Luz Martinez-Lucas, Bo-Hao Su, Wei-Cheng Lin, Woan-Shiuan Chien, Ya-Tse Wu,
+William Katz, Carlos Busso, and Chi-Chun Lee. “Phonetic Anchor-Based Transfer Learning to Facilitate Unsupervised Cross-Lingual Speech Emotion Recognition.” IEEE International Conference on Acoustics, Speech
+and Signal Processing (ICASSP), 2023.
+5. Woan-Shiuan Chien, Upadhyay Shreya G., Wei-Cheng Lin, Ya-Tse Wu, Bo-Hao Su, Carlos Busso, and ChiChun Lee. “Monologue versus Conversation: Differences in Emotion Perception and Acoustic Expressivity.”
+Proc. 10th International conference on affective computing and intelligent interactions (ACII), 2022.
+6. Upadhyay Shreya G., Bo-Hao Su, and Chi-Chun Lee. “Improving Induced Valence Recognition by Integrating Acoustic Sound Semantics in Movies.” 30th European Signal Processing Conference (EUSIPCO),
+2022.
+7. Upadhyay Shreya G., Bo-Hao Su, and Chi-Chun Lee. “Attentive Convolutional Recurrent Neural Network
+Using Phoneme-Level Acoustic Representation for Rare Sound Event Detection.” Proc. Interspeech, 2020.
+8. Upadhyay, Shreya G., and Kavita M. Kelkar. “Predicting Learner’s Confidence from their Behaviour Using
+a Judgement Questionnaire.” Fourth International Conference on Computing Communication Control and
+Automation (ICCUBEA). IEEE, 2018.
+
+### Accepted Abstract
+
+1. Upadhyay Shreya G., Bo-Hao Su, and Chi-Chun Lee. “Improving Induced Valence Recognition by Integrating Acoustic Sound Semantics in Movies.” Women in Machine Learning (WiML) workshop, NeurIPS,
+2022.
+2. Upadhyay, Shreya G., and Kavita M. Kelkar. “Accent Classification using Audio-based Features.” 2018
+Young Female Researchers in Speech Science and Technology workshop, Interspeech, 2018
