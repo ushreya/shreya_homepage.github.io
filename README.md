@@ -11,7 +11,6 @@
 
 ## Research Experience
 ### Behavioral Information and Interaction Computation Lab (BIIC), NTHU (_2019/09 - Present_)
-
 #### Speech Emotion Recognition
 - Pretrained Layer-Constrained Cross-Lingual SER
 - Utilizing Rater-Expanded Label Space for Consensus-based SER (TAFFC 24)
@@ -49,7 +48,6 @@
 
 ## Projects
 ### MSP-Lab, University of Texas at Dallas, USA (_2021/07 - Present_)
-
 - Affective Mandarin Taiwanese Podcast Database Collection
 - Phonetic-based Cross-Lingual Speech Emotion Recognition
 - Effect of Affective Priming on Emotional Annotations
