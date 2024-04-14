@@ -1,7 +1,7 @@
 # PhD Student
 
 ## Research Interest 
--Behavioural Speech Signal Processing, Machine Learning, Speech Emotion Recognition, Affective Computing, Sound Event Detection, Automatic Speech Recognition, Cross-Corpus Transfer Learning
+- Behavioural Speech Signal Processing, Machine Learning, Speech Emotion Recognition, Affective Computing, Sound Event Detection, Automatic Speech Recognition, Cross-Corpus Transfer Learning
 
 
 ## Education
