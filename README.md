@@ -54,8 +54,6 @@
 ### C-Media Electronics Incorporation (C-Media Inc.), Taiwan (_2021/02 - 2021/07_)
 - Implement AI De-Reverberation De-Noise Algorithm Using Deep Noise Suppression
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ## Internships
 ### Industrial Technology Research Institute (ITRI), Taiwan (_2022/06 - 2022/12_)
 
