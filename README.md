@@ -3,7 +3,6 @@
 ## Research Interest 
 - Behavioural Speech Signal Processing, Machine Learning, Speech Emotion Recognition, Affective Computing, Sound Event Detection, Automatic Speech Recognition, Cross-Corpus Transfer Learning
 
-
 ## Education
 - PhD, Electrical Engineering - National Tsing Hua University (NTHU), Taiwan (_2019/09_ - _Present_ )								       		
 - MTech, Computer Engineering - K. J. Somaiya College of Engineering (_2016/06 - 2018/10_)	 			        		
@@ -39,7 +38,6 @@
 - Synthetic Scene and Event Background Noise Dataset Creation for ASR
 
 ### K.J. Somaiya College of Engineering (KJSCE), India (_2016/06 - 2018/10_)
-
 #### Affective and Behavioural Computing
 - Attention-based Modelling for Accent Classification
 - Dataset Collection Interface Creation for Judgement Questionnaire
@@ -69,13 +67,10 @@
 - Speech Acoustic Analysis
 
 ## Teaching Assistance
-**Introduction to Digital Signal Processing, NTHU (_2022/02 - 2022/07_)**
-
-**Introduction to Machine Learning, NTHU (_2021/09 - 2022/01_)**
-
-**Machine Learning, KJSCE (_2017/02 - 2017/06_)**
-
-**Design and Analysis of Algorithm, KJSCE (_2016/08 - 2017/01_)**
+#### Introduction to Digital Signal Processing, NTHU (_2022/02 - 2022/07_)
+#### Introduction to Machine Learning, NTHU (_2021/09 - 2022/01_)
+#### Machine Learning, KJSCE (_2017/02 - 2017/06_)
+#### Design and Analysis of Algorithm, KJSCE (_2016/08 - 2017/01_)
 
 ## Awards & Honors
 
