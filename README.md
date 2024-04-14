@@ -5,7 +5,7 @@
 
 
 ## Education
-- Ph.D., Physics | National Tsing Hua University (NTHU), Taiwan (_September 2019_ - Present )								       		
+- Ph.D., Physics | National Tsing Hua University (NTHU), Taiwan (_September 2019_ - _Present_ )								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
