@@ -2,6 +2,7 @@
 profile_photo: /assets/img/Shreya_IEEE.png
 ---
 
+![Your Name]({{ page.profile_photo }})
 # Shreya Upadhyay
 
 ## Research Interest 
