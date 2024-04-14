@@ -1,9 +1,10 @@
-# Data Scientist
+# PhD Student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Research Interest: Behavioural Speech Signal Processing, Machine Learning, Speech Emotion Recognition, Affective Computing, Sound Event Detection, Automatic Speech Recognition, Cross-Corpus Transfer Learning
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- Ph.D., Physics | National Tsing Hua University (NTHU), Taiwan (_September 2019_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
