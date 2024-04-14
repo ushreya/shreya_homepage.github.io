@@ -7,12 +7,16 @@
 ## Education
 - PhD, Electrical Engineering  |  National Tsing Hua University (NTHU), Taiwan (_2019/09_ - _Present_ )								       		
 - MTech, Computer Engineering | The University of Texas at Dallas (_2016/06 - 2018/10_)	 			        		
-- BE, Computer Engineering | The University of Texas at Dallas (_May 2017_)
+- BE, Computer Engineering | The University of Texas at Dallas (_2009/06 - 2013/07_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## Research Experience
+**Behavioral Information and Interaction Computation Lab (BIIC), NTHU (_2019/09 - Present_)**
+***Speech Emotion Recognition***
+- Pretrained Layer-Constrained Cross-Lingual SER
+- Utilizing Rater-Expanded Label Space for Consensus-based SER (TAFFC 24)
+– Affective Priming on Emotional Annotations (ACII 23)
+– Phonetic-Anchor based Cross-Lingual SER (ICASSP 23)
+– Monolog v/s Conversation Speech Data Analysis (ACII 22)
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
