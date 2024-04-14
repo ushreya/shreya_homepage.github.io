@@ -1,3 +1,7 @@
+---
+profile_photo: /assets/img/Shreya_IEEE.png
+---
+
 # Shreya Upadhyay
 
 ## Research Interest 
