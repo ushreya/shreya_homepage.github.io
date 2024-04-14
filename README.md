@@ -1,5 +1,3 @@
-# Shreya Upadhyay
-
 ## Research Interest 
 - Behavioural Speech Signal Processing, Machine Learning, Speech Emotion Recognition, Affective Computing, Sound Event Detection, Automatic Speech Recognition, Cross-Corpus Transfer Learning
 
