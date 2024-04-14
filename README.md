@@ -5,8 +5,8 @@
 
 
 ## Education
-- PhD, Electrical Engineering  |  National Tsing Hua University (NTHU), Taiwan (_September 2019_ - _Present_ )								       		
-- MTech, Computer Engineering | The University of Texas at Dallas (_December 2019_)	 			        		
+- PhD, Electrical Engineering  |  National Tsing Hua University (NTHU), Taiwan (_2019/09_ - _Present_ )								       		
+- MTech, Computer Engineering | The University of Texas at Dallas (_2016/06 - 2018/10_)	 			        		
 - BE, Computer Engineering | The University of Texas at Dallas (_May 2017_)
 
 ## Work Experience
