@@ -5,37 +5,37 @@
 
 
 ## Education
-- PhD, Electrical Engineering - National Tsing Hua University (NTHU), Taiwan | (_2019/09_ - _Present_ )								       		
-- MTech, Computer Engineering - K. J. Somaiya College of Engineering | (_2016/06 - 2018/10_)	 			        		
-- BE, Computer Engineering - Mumbai University | (_2009/06 - 2013/07_)
+- PhD, Electrical Engineering - National Tsing Hua University (NTHU), Taiwan (_2019/09_ - _Present_ )								       		
+- MTech, Computer Engineering - K. J. Somaiya College of Engineering (_2016/06 - 2018/10_)	 			        		
+- BE, Computer Engineering - Mumbai University (_2009/06 - 2013/07_)
 
 ## Research Experience
 ### Behavioral Information and Interaction Computation Lab (BIIC), NTHU (_2019/09 - Present_)
 
-**Speech Emotion Recognition**
+#### Speech Emotion Recognition
 - Pretrained Layer-Constrained Cross-Lingual SER
 - Utilizing Rater-Expanded Label Space for Consensus-based SER (TAFFC 24)
 - Affective Priming on Emotional Annotations (ACII 23)
 - Phonetic-Anchor based Cross-Lingual SER (ICASSP 23)
 - Monolog v/s Conversation Speech Data Analysis (ACII 22)
 
-**Fairness**
+#### Fairness
 - Gender Fairness Generalizability in Cross-Corpus Scenario
 - Balancing Speaker-Rater Fairness for Gender-Neutral SER (ICASSP 24)
 
-**Automatic Speech Recognition**
+#### Automatic Speech Recognition
 - Implementing the Taiwanese Mandarin Forced Aligner
 - Utilizing Large Speech Production SSL Models
 
-**Sound Event Detection**
+#### Sound Event Detection
 - Phoneme-Level Acoustic Learning for Rare Sound Event Detection (INTERSPEECH 20)
 - Sound Event Localization and Detection
 
-**Affective Multimedia**
+#### Affective Multimedia
 - Integrating Annotator’s Subjectivity in Multimedia Emotion Recognition System
 - Modelling Multimodal Systems with Verbal and Non-Verbal Human Sound Events (EUSIPCO 22)
 
-**Dataset Collection and Creation**
+#### Dataset Collection and Creation
 - Taiwanese Mandarin Affective Podcast Dataset Collection (ACII 23)
 - Synthetic Scene and Event Background Noise Dataset Creation for ASR
 
