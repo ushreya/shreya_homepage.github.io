@@ -5,9 +5,9 @@
 
 
 ## Education
-- PhD, Electrical Engineering - National Tsing Hua University (NTHU), Taiwan (_2019/09_ - _Present_ )								       		
-- MTech, Computer Engineering - K. J. Somaiya College of Engineering (_2016/06 - 2018/10_)	 			        		
-- BE, Computer Engineering - Mumbai University (_2009/06 - 2013/07_)
+- PhD, Electrical Engineering - National Tsing Hua University (NTHU), Taiwan | (_2019/09_ - _Present_ )								       		
+- MTech, Computer Engineering - K. J. Somaiya College of Engineering | (_2016/06 - 2018/10_)	 			        		
+- BE, Computer Engineering - Mumbai University | (_2009/06 - 2013/07_)
 
 ## Research Experience
 ### Behavioral Information and Interaction Computation Lab (BIIC), NTHU (_2019/09 - Present_)
@@ -41,7 +41,7 @@
 
 ### K.J. Somaiya College of Engineering (KJSCE), India (_2016/06 - 2018/10_)
 
-**Affective and Behavioural Computing**
+#### Affective and Behavioural Computing
 - Attention-based Modelling for Accent Classification
 - Dataset Collection Interface Creation for Judgement Questionnaire
 - Early-Later Stage Confidence Behaviour Prediction of Online Platform Learners (ICCUBEA 18)
