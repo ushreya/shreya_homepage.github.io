@@ -6,8 +6,8 @@
 
 ## Education
 - PhD, Electrical Engineering | National Tsing Hua University (NTHU), Taiwan (_2019/09_ - _Present_ )								       		
-- MTech, Computer Engineering | The University of Texas at Dallas (_2016/06 - 2018/10_)	 			        		
-- BE, Computer Engineering | The University of Texas at Dallas (_2009/06 - 2013/07_)
+- MTech, Computer Engineering | K. J. Somaiya College of Engineering (_2016/06 - 2018/10_)	 			        		
+- BE, Computer Engineering | Mumbai University (_2009/06 - 2013/07_)
 
 ## Research Experience
 **Behavioral Information and Interaction Computation Lab (BIIC), NTHU (_2019/09 - Present_)**
@@ -71,44 +71,44 @@
 - Speech Acoustic Analysis
 
 ## Teaching Assistance
-### Introduction to Digital Signal Processing, NTHU (_2022/02 - 2022/07_)
+**Introduction to Digital Signal Processing, NTHU (_2022/02 - 2022/07_)**
 
-### Introduction to Machine Learning, NTHU (_2021/09 - 2022/01_)
+**Introduction to Machine Learning, NTHU (_2021/09 - 2022/01_)**
 
-### Machine Learning, KJSCE (_2017/02 - 2017/06_)
+**Machine Learning, KJSCE (_2017/02 - 2017/06_)**
 
-### Design and Analysis of Algorithm, KJSCE (_2016/08 - 2017/01_)
+**Design and Analysis of Algorithm, KJSCE (_2016/08 - 2017/01_)**
 
 ## Awards & Honors
 
-NTHU International Student Scholarship, 2019 - 2024
-CTCI Foundation Research Scholarship, 2023
-ICASSP PROGRESS Award, 2023
-Google Travel Grant, 2023
-National Science and Technology Council (NSTC) Travel Grant, 2023
-Poster in Women in Machine Learning (WiML) Workshop, NeurIPS, 2022
-ACII Student Travel Grant, 2022
-Session Chair, 30th European Signal Processing Conference (EUSIPCO), 2022
-Merry Electroacoustic Paper Award (Finalists), 2020
-Poster in YFRS Workshop, Interspeech, 2018
+- NTHU International Student Scholarship, 2019 - 2024
+- CTCI Foundation Research Scholarship, 2023
+- ICASSP PROGRESS Award, 2023
+- Google Travel Grant, 2023
+- National Science and Technology Council (NSTC) Travel Grant, 2023
+- Poster in Women in Machine Learning (WiML) Workshop, NeurIPS, 2022
+- ACII Student Travel Grant, 2022
+- Session Chair, 30th European Signal Processing Conference (EUSIPCO), 2022
+- Merry Electroacoustic Paper Award (Finalists), 2020
+- Poster in YFRS Workshop, Interspeech, 2018
 
 ## Skills
 
-Corpora Collection BIIC-Podcast (Affective Corpus)
-Speech Signal Processing Tools openSMILE, librosa, Praat, Fairseq
-Speech Production Models Wav2vec2.0, Hubert, WavLM, Whisper
-Computer Vision Tools OpenCV, OpenFace
-ASR Tools Kaldi, Forced Aligners (MFA)
-Programming Python, C++, MATLAB, HTML
-Machine Learning Libraries Pytorch, TensorFlow, Docker, scikit-learn
-Other Tools & Familiar OS LaTex, Git (Github and Gitlab), Linux, Windows
+- Corpora Collection BIIC-Podcast (Affective Corpus)
+- Speech Signal Processing Tools openSMILE, librosa, Praat, Fairseq
+- Speech Production Models Wav2vec2.0, Hubert, WavLM, Whisper
+- Computer Vision Tools OpenCV, OpenFace
+- ASR Tools Kaldi, Forced Aligners (MFA)
+- Programming Python, C++, MATLAB, HTML
+- Machine Learning Libraries Pytorch, TensorFlow, Docker, scikit-learn
+- Other Tools & Familiar OS LaTex, Git (Github and Gitlab), Linux, Windows
 
 ## Reviewer Experience
 
-International Conference on Affective Computing and Intelligent Interactions (ACII)
-ACM International Conference on Multimodal Interaction (ICMI)
-IEEE Transactions on Affective Computing
-Interspeech
+- International Conference on Affective Computing and Intelligent Interactions (ACII)
+- ACM International Conference on Multimodal Interaction (ICMI)
+- IEEE Transactions on Affective Computing
+- Interspeech
 
 
 ## Publications
