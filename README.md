@@ -18,6 +18,26 @@
 – Phonetic-Anchor based Cross-Lingual SER (ICASSP 23)
 – Monolog v/s Conversation Speech Data Analysis (ACII 22)
 
+***Fairness***
+– Gender Fairness Generalizability in Cross-Corpus Scenario
+– Balancing Speaker-Rater Fairness for Gender-Neutral SER (ICASSP 24)
+
+***Automatic Speech Recognition***
+– Implementing the Taiwanese Mandarin Forced Aligner
+– Utilizing Large Speech Production SSL Models
+
+***Sound Event Detection***
+– Phoneme-Level Acoustic Learning for Rare Sound Event Detection (INTERSPEECH 20)
+– Sound Event Localization and Detection
+
+***Affective Multimedia***
+– Integrating Annotator’s Subjectivity in Multimedia Emotion Recognition System
+– Modelling Multimodal System with Verbal and Non-Verbal Human Sound Events (EUSIPCO 22)
+
+***Dataset Collection and Creation***
+– Taiwanese Mandarin Affective Podcast Dataset Collection (ACII 23)
+– Synthetic Scene and Event Background Noise Dataset Creation for ASR
+
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 - Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
